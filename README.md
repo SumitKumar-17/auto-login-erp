@@ -86,10 +86,12 @@ Our default branch `main` is the source code to the recent stable release. Want 
      ```
   3. Install dependencies
      ```bash
-     yarn install
+     npm install
      ```
   4. Build the extension and watch for changes
      ```bash
+      npm run build-dev #(build in  the addon folder.Put that in the chrome extensions.)
+
      yarn dev:firefox # for firefox
      yarn dev:chrome # (or) for chrome
      ```
