@@ -103,8 +103,9 @@ const login = async (res: { [key: string]: unknown }) => {
 
     passwordInput.value = password
     answerInput.value = answer
+    document.getElementById('getotp')?.click();
 
-    displayMessageOnErpLoginPage("Data filled! Click 'Send OTP' to continue", '#4a4a4f')
+    displayMessageOnErpLoginPage("Data filled and 'OTP' was sent to mail. Fill the OTP from your mail", '#4a4a4f')
   })
 
   if (usernameInput) {
