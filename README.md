@@ -17,7 +17,7 @@
 
 ## How to Use
 
-1. [Download the extension-loader.zip](./extension-loader.zip)
+1. [Download the extension-loader.zip](https://github.com/SumitKumar-17/auto-login-erp/raw/refs/heads/main/extension-loader.zip)
 2. Extract it to a folder on your computer.
 
 ## Load in Chrome
