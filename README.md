@@ -13,7 +13,6 @@
   <a href="https://github.com/SumitKumar-17/auto-login-erp/issues">Request feature</a>
 </p>
 
-![Cover](/screenshots/cover_new.png)
 
 # ERP Auto Login - IITKGP
 
@@ -39,19 +38,6 @@ Our default branch `main` is the source code to the recent stable release. Want 
   - [Copyright and License](#copyright-and-license)
   - [Creator](#creator)
 
-## Status
-
-[![Release](https://github.com/SumitKumar-17/auto-login-erp/actions/workflows/release.yml/badge.svg)](https://github.com/SumitKumar-17/auto-login-erp/actions/workflows/release.yml)
-[![CodeQL](https://github.com/SumitKumar-17/auto-login-erp/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/SumitKumar-17/auto-login-erp/actions/workflows/github-code-scanning/codeql)
-![Chrome Add-on](https://img.shields.io/chrome-web-store/users/hianmedhblomknonbbmalncjjffdligl?label=chrome-users)
-![Mozilla Add-on](https://img.shields.io/amo/v/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D)
-![Mozilla Add-on](https://img.shields.io/amo/users/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D?label=mozilla-users)
-![Mozilla Add-on](https://img.shields.io/amo/dw/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D)
-![GitHub](https://img.shields.io/github/license/SumitKumar-17/auto-login-erp)
-![Mozilla Add-on](https://img.shields.io/amo/rating/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D)
-![Mozilla Add-on](https://img.shields.io/amo/stars/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D)
-![Code Style](https://img.shields.io/badge/code%20style-prettier-ff69b4)
-
 ## Why Us?
 
 - Local only extension (serverless)
@@ -71,9 +57,6 @@ Our default branch `main` is the source code to the recent stable release. Want 
   <p align="left">
       <a href="https://addons.mozilla.org/en-US/firefox/addon/erp-auto-login-iitkgp/">
           <img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr-2020.svg" alt="ERP Auto Login - IITKGP logo" height="58">
-      </a>
-      <a href="https://chrome.google.com/webstore/detail/erp-auto-login-iitkgp/hianmedhblomknonbbmalncjjffdligl">
-          <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png" alt="ERP Auto Login - IITKGP logo">
       </a>
   </p>
 
@@ -122,10 +105,6 @@ Our default branch `main` is the source code to the recent stable release. Want 
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/SumitKumar-17/auto-login-erp/issues/new).
-
-## Previous releases
-
-You can find all our [previous releases](https://github.com/SumitKumar-17/auto-login-erp/releases) on releases page of the github repo or directly from [AMO Website](https://addons.mozilla.org/en-US/firefox/addon/erp-auto-login-iitkgp/versions/)
 
 ## Todos
 
