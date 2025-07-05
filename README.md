@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/erp-auto-login-iitkgp/">
     <img src="./src/assets/images/ext_icon.png" alt="ERP Auto Login - IITKGP logo" width="64" height="64">
   </a>
 </p>
@@ -12,15 +11,13 @@
   <a href="https://github.com/SumitKumar-17/auto-login-erp/issues/new">Report a bug</a>
   ·
   <a href="https://github.com/SumitKumar-17/auto-login-erp/issues/new">Request feature</a>
-  ·
-  <a href="https://addons.mozilla.org/en-US/firefox/addon/erp-auto-login-iitkgp/reviews">Feedback</a>
 </p>
 
 ![Cover](/screenshots/cover_new.png)
 
 # ERP Auto Login - IITKGP
 
-Our default branch `master` is the source code to the recent stable release. Want to test beta versions? Head to the [`develop` branch](https://github.com/SumitKumar-17/auto-login-erp/tree/develop) to view the latest updates and features before the official release.
+Our default branch `main` is the source code to the recent stable release. Want to test beta versions? Head to the [`develop` branch](https://github.com/SumitKumar-17/auto-login-erp/tree/develop) to view the latest updates and features before the official release.
 
 > This extension `never` shares your credentials. It stays locally in your browser itself using the browser API [`storage.local`](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/storage/local) by mozilla.
 
@@ -102,7 +99,7 @@ Our default branch `master` is the source code to the recent stable release. Wan
      ```
   2. Cd into the repository
      ```bash
-     cd iitkgp-erp-auto-login-extension
+     cd auto-login-erp
      ```
   3. Install dependencies
      ```bash
@@ -143,7 +140,7 @@ You can find all our [previous releases](https://github.com/SumitKumar-17/auto-l
 
 For Contributing to this project please open a pull request describing the changes or features with proper documentation.
 
-Editor preferences are available in the [editor config](https://github.com/SumitKumar-17/auto-login-erp/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+Editor preferences are available in the [editor config](https://github.com/SumitKumar-17/auto-login-erp/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 ## Versioning
 

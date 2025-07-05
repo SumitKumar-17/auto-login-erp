@@ -7,9 +7,9 @@ const validateCredentials = (credObjFromStorage: { [key: string]: unknown }): Fi
   if (
     credObjFromStorage.username !== '' &&
     credObjFromStorage.password !== '' &&
-    credObjFromStorage.q1 !== 'Your erp question 1' &&
-    credObjFromStorage.q2 !== 'Your erp question 2' &&
-    credObjFromStorage.q3 !== 'Your erp question 3' &&
+    credObjFromStorage.q1 !== 'Your ERP question 1' &&
+    credObjFromStorage.q2 !== 'Your ERP question 2' &&
+    credObjFromStorage.q3 !== 'Your ERP question 3' &&
     credObjFromStorage.a1 !== '' &&
     credObjFromStorage.a2 !== '' &&
     credObjFromStorage.a3 !== ''
