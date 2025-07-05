@@ -8,9 +8,9 @@
 <p align="center">
   Minimial yet powerful and customizable autologin/autofill extension, for IIT Kharagpur enrolled students.
   <br>
-  <a href="https://github.com/SumitKumar-17/auto-login-erp/issues/new">Report a bug</a>
+  <a href="https://github.com/SumitKumar-17/auto-login-erp/issues">Report a bug</a>
   ·
-  <a href="https://github.com/SumitKumar-17/auto-login-erp/issues/new">Request feature</a>
+  <a href="https://github.com/SumitKumar-17/auto-login-erp/issues">Request feature</a>
 </p>
 
 ![Cover](/screenshots/cover_new.png)
