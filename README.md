@@ -149,7 +149,7 @@ Editor preferences are available in the [editor config](https://github.com/Sumit
 
 [The Semantic Versioning guidelines](https://semver.org/) is followed as far as versioning is concerned.
 
-See [the Releases section of our GitHub project](https://github.com/SumitKumar-17/auto-login-erp/releases) for changelogs for each release version of this extension.
+See [the Releases section of project](https://github.com/SumitKumar-17/auto-login-erp/releases) for changelogs for each release version of this extension.
 
 ## Thanks
 
@@ -160,10 +160,3 @@ Thanks to [vs code](https://code.visualstudio.com/) and [web-ext](https://www.np
 | ![](</screenshots/chrome-extension___hianmedhblomknonbbmalncjjffdligl_pages_Popup_index.html%20(1).png>) | ![](</screenshots/chrome-extension___hianmedhblomknonbbmalncjjffdligl_pages_Popup_index.html%20(7).png>) | ![](</screenshots/chrome-extension___hianmedhblomknonbbmalncjjffdligl_pages_Popup_index.html%20(2).png>) |
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | ![](</screenshots/chrome-extension___hianmedhblomknonbbmalncjjffdligl_pages_Popup_index.html%20(5).png>) | ![](</screenshots/chrome-extension___hianmedhblomknonbbmalncjjffdligl_pages_Popup_index.html%20(4).png>) | ![](</screenshots/chrome-extension___hianmedhblomknonbbmalncjjffdligl_pages_Popup_index.html%20(3).png>) |
-
-## Copyright and License
-
-To the extent possible under law, [Siddhartha Sarkar](https://github.com/SumitKumar-17/auto-login-erp) has waived all copyright and related or neighboring rights to ERP Auto Login - IITKGP. This work is published from: India.
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
