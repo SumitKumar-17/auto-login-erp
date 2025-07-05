@@ -9,9 +9,9 @@
 <p align="center">
   Minimial yet powerful and customizable autologin/autofill extension, for IIT Kharagpur enrolled students.
   <br>
-  <a href="https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/issues/new">Report a bug</a>
+  <a href="https://github.com/SumitKumar-17/auto-login-erp/issues/new">Report a bug</a>
   ·
-  <a href="https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/issues/new">Request feature</a>
+  <a href="https://github.com/SumitKumar-17/auto-login-erp/issues/new">Request feature</a>
   ·
   <a href="https://addons.mozilla.org/en-US/firefox/addon/erp-auto-login-iitkgp/reviews">Feedback</a>
 </p>
@@ -20,7 +20,7 @@
 
 # ERP Auto Login - IITKGP
 
-Our default branch `master` is the source code to the recent stable release. Want to test beta versions? Head to the [`develop` branch](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/tree/develop) to view the latest updates and features before the official release.
+Our default branch `master` is the source code to the recent stable release. Want to test beta versions? Head to the [`develop` branch](https://github.com/SumitKumar-17/auto-login-erp/tree/develop) to view the latest updates and features before the official release.
 
 > This extension `never` shares your credentials. It stays locally in your browser itself using the browser API [`storage.local`](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/storage/local) by mozilla.
 
@@ -44,13 +44,13 @@ Our default branch `master` is the source code to the recent stable release. Wan
 
 ## Status
 
-[![Release](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/actions/workflows/release.yml/badge.svg)](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/actions/workflows/release.yml)
-[![CodeQL](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/actions/workflows/github-code-scanning/codeql)
+[![Release](https://github.com/SumitKumar-17/auto-login-erp/actions/workflows/release.yml/badge.svg)](https://github.com/SumitKumar-17/auto-login-erp/actions/workflows/release.yml)
+[![CodeQL](https://github.com/SumitKumar-17/auto-login-erp/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/SumitKumar-17/auto-login-erp/actions/workflows/github-code-scanning/codeql)
 ![Chrome Add-on](https://img.shields.io/chrome-web-store/users/hianmedhblomknonbbmalncjjffdligl?label=chrome-users)
 ![Mozilla Add-on](https://img.shields.io/amo/v/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D)
 ![Mozilla Add-on](https://img.shields.io/amo/users/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D?label=mozilla-users)
 ![Mozilla Add-on](https://img.shields.io/amo/dw/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D)
-![GitHub](https://img.shields.io/github/license/siddsarkar/iitkgp-erp-auto-login-extension)
+![GitHub](https://img.shields.io/github/license/SumitKumar-17/auto-login-erp)
 ![Mozilla Add-on](https://img.shields.io/amo/rating/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D)
 ![Mozilla Add-on](https://img.shields.io/amo/stars/%7Bfa21e38a-41b3-4891-8f6b-8ba837e2df65%7D)
 ![Code Style](https://img.shields.io/badge/code%20style-prettier-ff69b4)
@@ -84,7 +84,7 @@ Our default branch `master` is the source code to the recent stable release. Wan
 
 - From GitHub
 
-  - [Click here](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/releases) to download the latest release `.xpi` for firefox and `.crx` for chrome
+  - [Click here](https://github.com/SumitKumar-17/auto-login-erp/releases) to download the latest release `.xpi` for firefox and `.crx` for chrome
   - Load the extension in `Firefox` as:
     1. Open Add-on Manager from options (or) by pressing <kbd>Ctrl/Cmd+Shift+A</kbd> on Widows/Mac
     2. Click the gear icon ⚙️ in the upper-right area of the Add-on Manager Extensions panel.
@@ -98,7 +98,7 @@ Our default branch `master` is the source code to the recent stable release. Wan
 
   1. Clone the repository
      ```bash
-     git clone https://github.com/siddsarkar/iitkgp-erp-auto-login-extension.git
+     git clone https://github.com/SumitKumar-17/auto-login-erp.git
      ```
   2. Cd into the repository
      ```bash
@@ -124,11 +124,11 @@ Our default branch `master` is the source code to the recent stable release. Wan
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/issues/new).
+Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/SumitKumar-17/auto-login-erp/issues/new).
 
 ## Previous releases
 
-You can find all our [previous releases](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/releases) on releases page of the github repo or directly from [AMO Website](https://addons.mozilla.org/en-US/firefox/addon/erp-auto-login-iitkgp/versions/)
+You can find all our [previous releases](https://github.com/SumitKumar-17/auto-login-erp/releases) on releases page of the github repo or directly from [AMO Website](https://addons.mozilla.org/en-US/firefox/addon/erp-auto-login-iitkgp/versions/)
 
 ## Todos
 
@@ -143,13 +143,13 @@ You can find all our [previous releases](https://github.com/siddsarkar/iitkgp-er
 
 For Contributing to this project please open a pull request describing the changes or features with proper documentation.
 
-Editor preferences are available in the [editor config](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
+Editor preferences are available in the [editor config](https://github.com/SumitKumar-17/auto-login-erp/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 ## Versioning
 
 [The Semantic Versioning guidelines](https://semver.org/) is followed as far as versioning is concerned.
 
-See [the Releases section of our GitHub project](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension/releases) for changelogs for each release version of this extension.
+See [the Releases section of our GitHub project](https://github.com/SumitKumar-17/auto-login-erp/releases) for changelogs for each release version of this extension.
 
 ## Thanks
 
@@ -163,14 +163,7 @@ Thanks to [vs code](https://code.visualstudio.com/) and [web-ext](https://www.np
 
 ## Copyright and License
 
-To the extent possible under law, [Siddhartha Sarkar](https://github.com/siddsarkar/iitkgp-erp-auto-login-extension) has waived all copyright and related or neighboring rights to ERP Auto Login - IITKGP. This work is published from: India.
+To the extent possible under law, [Siddhartha Sarkar](https://github.com/SumitKumar-17/auto-login-erp) has waived all copyright and related or neighboring rights to ERP Auto Login - IITKGP. This work is published from: India.
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-## Creator
-
-<img src="https://siddsarkar.github.io/assets/images/profile.jpg" style="height: 60px !important; border-radius: 50%;">
-
-[**Siddhartha Sarkar**](https://siddsarkar.github.io)
-
-[![Buy Me A Coffee](https://img.shields.io/badge/%E2%98%95-buymeacofee-yellow)](https://www.buymeacoffee.com/siddsarkar)

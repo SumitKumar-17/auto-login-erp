@@ -1,8 +1,6 @@
 {
   "name": "iitkgp-erp-auto-login-extension",
   "version": "1.0.0",
-  "repository": "https://github.com/siddsarkar/iitkgp-erp-auto-login-extension.git",
-  "author": "Siddhartha Sarkar <siddsarkar7@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
