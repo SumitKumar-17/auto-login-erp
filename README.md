@@ -13,6 +13,22 @@
   <a href="https://github.com/SumitKumar-17/auto-login-erp/issues">Request feature</a>
 </p>
 
+# Extension Loader
+
+## How to Use
+
+1. [Download the extension-loader.zip](./extension-loader.zip)
+2. Extract it to a folder on your computer.
+
+## Load in Chrome
+
+1. Open Chrome and go to `chrome://extensions/`
+2. Enable **Developer mode** (top right).
+3. Click **Load unpacked**.
+4. Select the extracted `extension-loader` folder.
+
+The extension will now be loaded in Chrome.
+
 
 # ERP Auto Login - IITKGP
 
