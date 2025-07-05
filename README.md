@@ -121,12 +121,6 @@ For Contributing to this project please open a pull request describing the chang
 
 Editor preferences are available in the [editor config](https://github.com/SumitKumar-17/auto-login-erp/blob/main/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
-## Versioning
-
-[The Semantic Versioning guidelines](https://semver.org/) is followed as far as versioning is concerned.
-
-See [the Releases section of project](https://github.com/SumitKumar-17/auto-login-erp/releases) for changelogs for each release version of this extension.
-
 ## Thanks
 
 Thanks to [vs code](https://code.visualstudio.com/) and [web-ext](https://www.npmjs.com/package/web-ext) for providing the environment that allowed us to develop and test in real browsers!
